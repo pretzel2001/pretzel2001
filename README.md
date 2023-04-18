@@ -1,4 +1,6 @@
 ### Hi there 👋 My name is Anannya Preeta
+<hr>
+I am an enthusiastic programmer with an immense passion for web design and development.
 
 # 💫 About Me:
 🔭 I’m currently working on Student Performance Record Management in DBMS course<br>🌱 I’m currently learning HTML, CSS, PHP, My SQL, Javascript<br>📧 You can reach out to me at itspreeta2001@gmail.com
