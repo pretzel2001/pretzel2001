@@ -1,5 +1,5 @@
 ### Hi there 👋 My name is Anannya Preeta
-<hr>
+
 I am an enthusiastic programmer with an immense passion for web design and development.
 
 # 💫 About Me:
