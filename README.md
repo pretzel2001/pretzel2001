@@ -1,9 +1,11 @@
 ### Hi there 👋 My name is Anannya Preeta
 
-I am an enthusiastic programmer with an immense passion for web and mobile design and development.
+A dedicated Full Stack Developer with a strong passion for frontend development. With expertise in both frontend and backend technologies, I excel in creating seamless and dynamic user experiences. My skills include ReactJS, PHP, MySQL, and modern web development practices. I thrive on transforming complex ideas into intuitive, user-friendly interfaces and am committed to delivering high-quality, scalable solutions.
 
 # 💫 About Me:
-🔭 I’m currently working on two projects, the first one being, developing a mobile app for online grocery shopping and the second one, is an online parking system <br>🌱 I am learning HTML,Dart, Flutter, CSS, PHP, My SQL, Javascript<br>📧 You can reach out to me at itspreeta2001@gmail.com
+🔭I am currently working as a Full Stack Developer on the BTCL project, which is a Berger Tech Portal. In this role, I am responsible for managing both the frontend and backend development, as well as server-side tasks. My expertise spans across various technologies, enabling me to deliver comprehensive and integrated solutions.
+
+For any inquiries or further information, please feel free to reach out to me via email at anannyapreeta2022@gmail.com.
 
 
 ## 🌐 Socials:
