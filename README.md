@@ -1,9 +1,9 @@
 ### Hi there 👋 My name is Anannya Preeta
 
-A dedicated Full Stack Developer with a strong passion for frontend development. With expertise in both frontend and backend technologies, I excel in creating seamless and dynamic user experiences. My skills include ReactJS, PHP, MySQL, and modern web development practices. I thrive on transforming complex ideas into intuitive, user-friendly interfaces and am committed to delivering high-quality, scalable solutions.
+A dedicated Full Stack Developer with a strong passion for frontend development. With expertise in both frontend and backend technologies, I excel in creating seamless and dynamic user experiences. My skills include ASP.NET, C#, ReactJS, PHP, MySQL, and modern web development practices. I thrive on transforming complex ideas into intuitive, user-friendly interfaces and am committed to delivering high-quality, scalable solutions.
 
 # 💫 About Me:
-🔭I am currently working as a Full Stack Developer on the BTCL project, which is a Berger Tech Portal. In this role, I am responsible for managing both the frontend and backend development, as well as server-side tasks. My expertise spans across various technologies, enabling me to deliver comprehensive and integrated solutions.
+🔭I am currently working as a Full Stack Developer in Berger Paints Bangladesh Ltd. In this role, I am responsible for managing both the frontend and backend development, as well as server-side tasks. My expertise spans across various technologies, enabling me to deliver comprehensive and integrated solutions.
 
 For any inquiries or further information, please feel free to reach out to me via email at anannyapreeta2022@gmail.com.
 
