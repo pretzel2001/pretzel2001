@@ -1,9 +1,11 @@
 ### Hi there 👋 My name is Anannya Preeta
 
-A dedicated Full Stack Developer with a strong passion for frontend development. With expertise in both frontend and backend technologies, I excel in creating seamless and dynamic user experiences. My skills include ASP.NET, C#, ReactJS, PHP, MySQL, and modern web development practices. I thrive on transforming complex ideas into intuitive, user-friendly interfaces and am committed to delivering high-quality, scalable solutions.
+I am a dedicated Software Engineer with expertise in C#, TypeScript, and SQL. I specialize in building robust, scalable solutions across the full technology stack, with a strong focus on delivering intuitive and high-performance applications. In addition to my core strengths, I have hands-on experience working with Java, C++, Dart, and Python, enabling me to adapt to diverse development environments and tackle complex challenges effectively. I am passionate about transforming technical requirements into seamless user experiences and take pride in writing clean, maintainable, and efficient code.
 
 # 💫 About Me:
-🔭I am currently working as a Full Stack Developer in Berger Paints Bangladesh Ltd. In this role, I am responsible for managing both the frontend and backend development, as well as server-side tasks. My expertise spans across various technologies, enabling me to deliver comprehensive and integrated solutions.
+🔭I am currently working as a Full Stack Developer at Berger Paints Bangladesh Ltd., where I am responsible for overseeing the complete software development lifecycle—from frontend and backend development to server-side operations. My role involves not only building and maintaining scalable web applications but also automating internal systems to improve efficiency and reliability.
+
+I actively engage in technical research and development (R&D) to evaluate new tools and frameworks, ensuring that our solutions stay modern and effective. I work extensively with APIs and cloud storage services to enable secure and seamless data integration across platforms. In addition, I contribute to project documentation to ensure clarity, maintainability, and team collaboration. My diverse technical skillset and problem-solving mindset allow me to deliver robust, user-centric solutions that align with business goals.
 
 For any inquiries or further information, please feel free to reach out to me via email at anannyapreeta2022@gmail.com.
 
